@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="280" viewBox="0 0 560 280" role="img" aria-labelledby="title description">
+<title id="title">ROGFOG/FileSentinel</title><desc id="description">Portable SHA-256 file-integrity snapshots and clear change reports. Python, standard library only.. Latest workflow: success. Release: v0.1.0.</desc>
+<rect x="1" y="1" width="558" height="278" rx="16" fill="#faf9f3" stroke="#dadfd2"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="28" y="37" fill="#a74123" font-size="10" letter-spacing="2">REPOSITORY / PUBLIC</text>
+<text x="28" y="77" fill="#22362b" font-size="24" font-weight="650">ROGFOG/FileSentinel</text>
+<text x="28" y="109" fill="#596a5d" font-size="13">Portable SHA-256 file-integrity snapshots and clear</text>
+<text x="28" y="130" fill="#596a5d" font-size="13">change reports. Python, standard library only.</text>
+<path d="M28 153H532" stroke="#dadfd2"/>
+<circle cx="33" cy="180" r="4" fill="#a74123"/><text x="45" y="185" fill="#22362b" font-size="12">Python</text>
+<text x="290" y="185" fill="#596a5d" font-size="12">Stars 0   ·   Forks 0</text>
+<text x="28" y="215" fill="#596a5d" font-size="12">Release: v0.1.0</text>
+<text x="28" y="239" fill="#596a5d" font-size="12">Latest workflow: success</text>
+<text x="28" y="262" fill="#596a5d" font-size="10">Last push 2026-10-19 · Snapshot, not a live badge</text></g></svg>
