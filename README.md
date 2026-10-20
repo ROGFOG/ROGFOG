@@ -1,36 +1,29 @@
 ![ROGFOG — development and security](assets/header.svg)
 
-I'm interested in application security, developer tools, and making technical
-ideas easier to inspect. Here are a few small projects built around those interests.
-
-### Security workbench
+### PolicyLens
 
 [![PolicyLens repository card](assets/policylens.svg)](https://github.com/ROGFOG/PolicyLens)
 
-**PolicyLens** — read Content Security Policy and HTTP security headers with
-contextual explanations. Processing stays in the browser.
+Paste a Content Security Policy or HTTP response headers to review directives,
+fallbacks and missing restrictions. Processing stays in the browser.
 [Try the workbench](https://rogfog.github.io/PolicyLens/) · [Code and design notes](https://github.com/ROGFOG/PolicyLens)
 
-### File integrity
+### FileSentinel
 
 [![FileSentinel repository card](assets/filesentinel.svg)](https://github.com/ROGFOG/FileSentinel)
 
-**FileSentinel** — create SHA-256 snapshots and compare changes to a directory.
-Python, standard library only, with explicit scan scope and error handling.
+Save a directory's SHA-256 snapshot, then compare it with a later snapshot to
+list added, removed and changed files. Python, standard library only.
 [Quick start](https://github.com/ROGFOG/FileSentinel#quick-start)
 
-### Project presentation
+### RepoCards
 
 [![RepoCards repository card](assets/repocards.svg)](https://github.com/ROGFOG/RepoCards)
 
-**RepoCards** — turn public GitHub repository data into portable SVG cards.
-The cards above use its renderer.
+Download SVG cards containing public GitHub repository metadata.
+The cards above were rendered with RepoCards.
 [Make a card](https://rogfog.github.io/RepoCards/) · [Source](https://github.com/ROGFOG/RepoCards)
 
 ---
-
-**How I approach these projects:** clear behavior, repeatable tests, documented
-tradeoffs, and small improvements that make the tools more useful. Security
-limitations and design decisions are documented alongside the code.
 
 Repository cards are metadata snapshots, not live status badges.

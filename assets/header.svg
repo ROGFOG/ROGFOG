@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc">
-<title id="title">ROGFOG — development and security</title><desc id="desc">Small tools, clear interfaces, and a closer look at how things work.</desc>
+<title id="title">ROGFOG — development and security</title><desc id="desc">PolicyLens, FileSentinel and RepoCards. Python and TypeScript.</desc>
 <rect width="1000" height="240" rx="18" fill="#f5f3ec"/>
 <path d="M710 0V240M750 0V240M790 0V240M830 0V240M870 0V240M910 0V240M950 0V240M690 40H1000M690 80H1000M690 120H1000M690 160H1000M690 200H1000" stroke="#dde0d4"/>
 <rect x="802" y="65" width="110" height="110" rx="24" fill="#b54120"/>
 <path d="M850 90L834 150M879 90L863 150" stroke="#fffefa" stroke-width="9"/>
-<g font-family="Segoe UI,Arial,sans-serif"><text x="42" y="49" font-size="12" letter-spacing="3" fill="#a74123">DEVELOPMENT / SECURITY / CURIOSITY</text>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="42" y="49" font-size="12" letter-spacing="3" fill="#a74123">PYTHON / TYPESCRIPT</text>
 <text x="39" y="126" font-size="66" font-weight="700" fill="#22362b" letter-spacing="-3">ROGFOG</text>
-<text x="43" y="167" font-size="18" fill="#596a5d">Small tools. Clear interfaces. A closer look at how things work.</text>
+<text x="43" y="167" font-size="18" fill="#596a5d">CSP headers · File integrity · Repository cards</text>
 <text x="43" y="208" font-size="12" fill="#596a5d">Python · TypeScript · Practical security</text></g></svg>
