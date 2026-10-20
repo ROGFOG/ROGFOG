@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+<title id="title">FileSentinel: file comparison</title><desc id="desc">Example comparison: one added file, one changed file and one unchanged file. Illustrated output example.</desc>
+<rect width="900" height="240" fill="#232423"/><path d="M0 0V240" stroke="#de5a30" stroke-width="8"/>
+<path d="M425 25V215M25 206H400" stroke="#55564d"/>
+<g font-family="Consolas,monospace"><text x="28" y="38" font-size="13" fill="#b7b5a5">FILE COMPARISON</text><text x="28" y="185" font-size="16" fill="#b7b5a5">SHA-256 / DIRECTORY SNAPSHOTS</text><text x="455" y="35" font-size="12" fill="#b7b5a5">OUTPUT EXAMPLE</text><text x="470" y="82" fill="#e89970" font-size="23">+</text><text x="510" y="82" fill="#eeeadd" font-size="23">new.txt</text><text x="470" y="130" fill="#e89970" font-size="23">~</text><text x="510" y="130" fill="#eeeadd" font-size="23">checklist.txt</text><text x="470" y="178" fill="#e89970" font-size="23">=</text><text x="510" y="178" fill="#eeeadd" font-size="23">1 file unchanged</text></g>
+<text x="25" y="118" font-family="Arial,sans-serif" font-size="47" font-weight="700" letter-spacing="-2" fill="#eeeadd">FileSentinel</text>
+</svg>
