@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 
 const root = dirname(fileURLToPath(import.meta.url));
 const readme = await readFile(resolve(root, 'README.md'), 'utf8');
-assert(!/PUBLIC_(GAME|GUIDE)_URL|LOCAL DRAFT/.test(readme), 'Replace draft destinations.');
+assert(!/PUBLIC_(GAME|GUIDE)_URL|LOCAL DRAFT/.test(readme), 'Replace the example game and guide URLs.');
 assert(!/<script\b|javascript:/i.test(readme), 'README must use ordinary Markdown links.');
 let checked = 0;
 for (const match of readme.matchAll(/!?\[[^\]]*\]\(([^\s)]+)\)/g)) {
