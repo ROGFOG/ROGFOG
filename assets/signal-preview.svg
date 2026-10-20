@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 310" role="img" aria-labelledby="title desc">
+<title id="title">Signal Route | four circuit puzzles</title><desc id="desc">An orange and charcoal puzzle preview with a route between numbered ports.</desc>
+<rect width="1120" height="310" fill="#df5b32"/><rect x="596" width="524" height="310" fill="#282927"/>
+<g font-family="Consolas,monospace" font-size="14" fill="#55271b"><text x="34" y="40">PLAY / 4 CIRCUITS</text><text x="34" y="270">CLICK A TILE TO TURN IT</text></g>
+<g font-family="Arial,sans-serif" fill="#242522"><text x="30" y="130" font-size="64" font-weight="900" letter-spacing="-3">Signal Route</text><text x="34" y="180" font-size="21">Connect the left edge to the right.</text></g>
+<g transform="translate(647 32)" fill="none" stroke="#55574f" stroke-width="2"><path d="M0 0H420V246H0ZM84 0V246M168 0V246M252 0V246M336 0V246M0 82H420M0 164H420"/>
+<path d="M0 123H42V41H126V123H210V205H294V123H420" stroke="#efe9d8" stroke-width="7"/>
+<g fill="#282927" stroke="#df5b32" stroke-width="4"><circle cx="42" cy="41" r="8"/><circle cx="126" cy="123" r="8"/><circle cx="210" cy="205" r="8"/><circle cx="294" cy="123" r="8"/></g>
+<g stroke="#77786c" stroke-width="5"><path d="M210 0V82M294 0V82M0 205H84M126 164V246"/></g></g></svg>

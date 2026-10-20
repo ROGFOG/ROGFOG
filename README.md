@@ -1,29 +1,44 @@
-![ROGFOG — development and security](assets/header.svg)
+![ROGFOG. Python and TypeScript.](assets/header-signal.svg)
+
+Tools for reviewing security headers, comparing files and presenting repositories.
+Built with Python and TypeScript.
+
+## Signal Route
+
+[![Signal Route: rotate the tiles and connect the signal.](assets/signal-preview.svg)](https://rogfog.github.io/ProfileWorkshop/game/)
+
+[Play Signal Route](https://rogfog.github.io/ProfileWorkshop/game/) · [How it works](https://rogfog.github.io/ProfileWorkshop/how-it-works.html#game)
+
+## Selected projects
 
 ### PolicyLens
 
-[![PolicyLens repository card](assets/policylens.svg)](https://github.com/ROGFOG/PolicyLens)
+Review Content Security Policy and HTTP response headers. Processing stays in your browser.
 
-Paste a Content Security Policy or HTTP response headers to review directives,
-fallbacks and missing restrictions. Processing stays in the browser.
-[Try the workbench](https://rogfog.github.io/PolicyLens/) · [Code and design notes](https://github.com/ROGFOG/PolicyLens)
+[Open workbench](https://rogfog.github.io/PolicyLens/) · [Source](https://github.com/ROGFOG/PolicyLens)
 
 ### FileSentinel
 
-[![FileSentinel repository card](assets/filesentinel.svg)](https://github.com/ROGFOG/FileSentinel)
+Save a directory's SHA-256 snapshot. Compare it later to find added, removed and changed files. Standard library only.
 
-Save a directory's SHA-256 snapshot, then compare it with a later snapshot to
-list added, removed and changed files. Python, standard library only.
-[Quick start](https://github.com/ROGFOG/FileSentinel#quick-start)
+[Quick start](https://github.com/ROGFOG/FileSentinel#quick-start) · [Source](https://github.com/ROGFOG/FileSentinel)
 
 ### RepoCards
 
-[![RepoCards repository card](assets/repocards.svg)](https://github.com/ROGFOG/RepoCards)
+Turn public GitHub repository metadata into downloadable SVG cards.
 
-Download SVG cards containing public GitHub repository metadata.
-The cards above were rendered with RepoCards.
 [Make a card](https://rogfog.github.io/RepoCards/) · [Source](https://github.com/ROGFOG/RepoCards)
+
+## Build notes
+
+Source files for the game and header, with instructions for adapting them.
+
+[Explore Profile Workshop](https://rogfog.github.io/ProfileWorkshop/how-it-works.html)
+
+## Stack
+
+`Python` · `TypeScript` · `GitHub Actions` · `SVG`
 
 ---
 
-Repository cards are metadata snapshots, not live status badges.
+[Components & licenses](https://rogfog.github.io/ProfileWorkshop/how-it-works.html#credits)

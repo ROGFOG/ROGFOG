@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 360" role="img" aria-labelledby="title desc">
+<title id="title">ROGFOG | Python and TypeScript</title><desc id="desc">A typographic nameplate with an orange patch panel. PolicyLens, FileSentinel and RepoCards.</desc>
+<rect width="1120" height="360" fill="#232423"/>
+<path d="M32 36H1088M32 299H1088M790 36V299" stroke="#494a46" fill="none"/>
+<g font-family="Consolas,monospace" font-size="15" fill="#b6b4aa"><text x="36" y="25">ROGFOG / REPOSITORIES</text><text x="36" y="330">PolicyLens</text><text x="268" y="330">FileSentinel</text><text x="520" y="330">RepoCards</text><text x="36" y="269">Python / TypeScript</text></g>
+<text x="26" y="213" font-family="Arial Black,Arial,sans-serif" font-size="157" font-weight="900" letter-spacing="-11" fill="#f1ede3">ROGFOG</text>
+<g transform="translate(825 63)"><rect width="254" height="207" fill="#de5a30"/>
+<g stroke="#8c311b" fill="none" stroke-width="2"><path d="M31 38H223M31 101H223M31 164H223M32 38V164M96 38V164M160 38V164M223 38V164"/></g>
+<path d="M32 164H96V101H160V38H223" stroke="#f8ecce" stroke-width="8" fill="none" stroke-linejoin="round"/>
+<g fill="#252522" stroke="#f8ecce" stroke-width="3"><circle cx="32" cy="164" r="10"/><circle cx="96" cy="101" r="10"/><circle cx="160" cy="38" r="10"/><circle cx="223" cy="38" r="10"/></g>
+<g font-family="Consolas,monospace" font-size="11" fill="#54291b"><text x="22" y="24">IN</text><text x="204" y="24">OUT</text><text x="20" y="193">ROTATE / CONNECT</text></g>
+<style>@media(prefers-reduced-motion:reduce){.traveler{display:none}}</style><circle class="traveler" r="4" fill="#252522"><animateMotion dur="7s" repeatCount="indefinite" path="M32 164H96V101H160V38H223"/></circle></g></svg>
